@@ -1,8 +1,10 @@
 🏌️‍♂️ Welcome to FamilyGolf! 🏌️‍♀️
+
 📜 Description
+
 This repository contains the code for the captivating landing page of "FamilyGolf," a multipurpose golf facility located in Sidcup, South East London. Developed using HTML, CSS, and JavaScript, this website offers a modern and interactive golfing experience that aims to engage and delight visitors of all ages and skill levels.
 
-👀Preview
+👀Preview:
 https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07
 
 ✨ Features
@@ -18,8 +20,8 @@ https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b7
 🖍️ Customized selection: Enhance the visual appeal and personalization of the website with customized selection styles that make the user experience more delightful.
 
 
-🌐 Reference
-This project drew inspiration from the YouTube channel "Shreyiasn Coding School" 
+🌐 Reference:
+This project drew inspiration from the YouTube channel "Shreyians Coding School" 
 
 Embark on an unforgettable golfing journey with FamilyGolf! ⛳️🏌️‍♂️🏌️‍♀️
 
