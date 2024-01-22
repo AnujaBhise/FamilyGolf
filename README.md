@@ -1,11 +1,10 @@
 # 🏌️‍♂️ Welcome to FamilyGolf! 🏌️‍♀️
+[Explore FamilyGolf](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
 
 ## 📜 Overview
 
 This repository contains the code for the captivating landing page of "FamilyGolf," a multipurpose golf facility located in Sidcup, South East London. Developed using HTML, CSS, and JavaScript, this website offers a modern and interactive golfing experience that aims to engage and delight visitors of all ages and skill levels.
 
-## 👀 Preview
-![FamilyGolf Preview](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
 
 ## 🌐 Features
 
@@ -20,8 +19,9 @@ FamilyGolf provides a seamless and visually appealing platform for golf enthusia
 </ul>
 
 ## 📸 Demo
+# 👀 Preview website here
+![FamilyGolf Preview](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
 
-[Explore FamilyGolf](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
 
 ## 🚀 Usage
 
