@@ -1,5 +1,7 @@
 # 🏌️‍♂️ Welcome to FamilyGolf! 🏌️‍♀️
-[Explore FamilyGolf](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
+
+![FamilyGulfGifLAptopFinalCompressed](https://github.com/AnujaBhise/FamilyGolf/assets/96904529/f11c968b-e3c7-4ad7-8d72-0bb743cd8de1)
+
 
 ## 📜 Overview
 
