@@ -21,8 +21,15 @@ FamilyGolf provides a seamless and visually appealing platform for golf enthusia
 </ul>
 
 ## 📸 Demo
-# 👀 Preview website here
-![FamilyGolf Preview](https://github.com/LearnerAnuja/FamilyGolf/assets/96904529/79e6bc49-993d-4d35-b734-9a29fb0d5f07)
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; justify-content: center; align-items: center; height: 100vh;">
+<img width="300" alt="Screenshot 2024-01-20 171234" src="https://github.com/AnujaBhise/FamilyGolf/assets/96904529/95e619a1-e1a4-4d5c-80bd-8ad121143823">
+<img width="300" alt="Screenshot 2024-01-20 171217" src="https://github.com/AnujaBhise/FamilyGolf/assets/96904529/4abac8de-fd4b-42da-90f2-ac9025c663eb">
+<img width="300" alt="Screenshot 2024-01-20 171206" src="https://github.com/AnujaBhise/FamilyGolf/assets/96904529/b4a96181-b3f2-40a2-a152-7fa6b1e1984e">
+<img width="300" alt="Screenshot 2024-01-20 171155" src="https://github.com/AnujaBhise/FamilyGolf/assets/96904529/50e849ec-9661-43f7-a77d-e04f9dbf1768">
+<img width="300" alt="Screenshot 2024-01-20 171141" src="https://github.com/AnujaBhise/FamilyGolf/assets/96904529/577fcd02-7d86-4d6b-910d-8f4c77901a93">
+
+
+</div>
 
 
 ## 🚀 Usage
